@@ -1,0 +1,54 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E231" />
+          <option value="E305" />
+          <option value="E128" />
+          <option value="E302" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="dict" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="set.column" />
+          <option value="streamlit.get_rerun" />
+          <option value="Home.Registration_Form" />
+          <option value="Registration_Form" />
+          <option value="Home.k" />
+          <option value="Home.*" />
+          <option value="pages.Registration_Form.Library" />
+          <option value="pages.Registration_Form.HomeLibrary" />
+          <option value="pages.Registration_Form.*" />
+          <option value="pages.Fee.df" />
+          <option value="main.PDFWithImage" />
+          <option value="main.BusinessCard.add_card_content" />
+          <option value="main.BusinessCard.*" />
+          <option value="main.self" />
+          <option value="streamlit.coloumns" />
+          <option value="str.unicode" />
+          <option value="main.content" />
+          <option value="main.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
